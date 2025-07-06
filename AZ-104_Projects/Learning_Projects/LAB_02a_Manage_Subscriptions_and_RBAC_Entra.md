@@ -154,3 +154,24 @@ Congratulations on completing the lab. Here are the main takeaways for this lab.
 + You can create new roles or customize existing roles.
 + Roles are defined in a JSON formatted file and include *Actions*, *NotActions*, and *AssignableScopes*.
 + You can use the Activity Log to monitor role assignments.
+
+  ## Credit 
+
+Microsfot Learning
+
+https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC_Entra.html
+
+
+A Computer Guru on Youtube
+
+https://youtube.com/playlist?list=PLf2TKe70Vk1OmCTAR85iZBgU9CpjxUL7u&si=K--O56o7Oe29W8rR
+
+
+Sidney Andrews
+
+(https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/b7a15f2697d1d39c848a083feed69de8cd80cf2b/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC_Entra.md)
+
+
+I DO NOT OWN THE MATERIAL USED ABOVE
+
+
