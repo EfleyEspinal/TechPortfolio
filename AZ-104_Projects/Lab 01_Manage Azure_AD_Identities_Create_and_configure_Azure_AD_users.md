@@ -142,3 +142,12 @@ Congratulations on completing the lab. Here are some main takeways for this lab:
 + Microsoft Entra ID has user and guest accounts. Each account has a level of access specific to the scope of work expected to be done.
 + Groups combine together related users or devices. There are two types of groups including Security and Microsoft 365.
 + Group membership can be statically or dynamically assigned.
+
+## Credit 
+A Computer Guru on Youtube
+https://youtube.com/playlist?list=PLf2TKe70Vk1PRDO_cZPxTujmVghYoXWQB&si=R0a-cEr_njF7lUDj
+Sidney Andrews
+https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/b7a15f2697d1d39c848a083feed69de8cd80cf2b/Instructions/Labs/LAB_01-Manage_Entra_ID_Identities.md
+
+I do not Own the Material used above
+
