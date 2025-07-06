@@ -32,7 +32,7 @@ To simplify management of Azure resources in your organization, you have been ta
 
 ## Architecture diagram
 
-![Diagram of lab tasks.](media/az104-lab02a-architecture.png)
+![Diagram of lab tasks.](../media/az104-lab02a-architecture.png)
 
 ## Job skills
 
@@ -115,7 +115,7 @@ In this task, you will create a custom RBAC role. Custom roles are a core part o
 
 1. For **Baseline permissions**, select **Clone a role**. In the **Role to clone** drop-down menu, select **Support Request Contributor**.
 
-    ![Screenshot clone a role.](media/az104-lab02a-clone-role.png)
+    ![Screenshot clone a role.](../media/az104-lab02a-clone-role.png)
 
 1. Select **Next** to move to the **Permissions** tab, and then select **+ Exclude permissions**.
 
@@ -141,7 +141,7 @@ In this task, you view the activity log to determine if anyone has created a new
 
 1. Review the activites for role assignments. The activity log can be filtered for specific operations. 
 
-    ![Screenshot of the Activity log page with configured filter.](media/az104-lab02a-searchactivitylog.png)
+    ![Screenshot of the Activity log page with configured filter.](../media/az104-lab02a-searchactivitylog.png)
 
 
 ## Key takeaways
