@@ -144,6 +144,12 @@ Congratulations on completing the lab. Here are some main takeways for this lab:
 + Group membership can be statically or dynamically assigned.
 
 ## Credit 
+
+Microsfot Learning
+
+https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_01-Manage_Entra_ID_Identities.html
+
+
 A Computer Guru on Youtube
 
 https://youtube.com/playlist?list=PLf2TKe70Vk1PRDO_cZPxTujmVghYoXWQB&si=R0a-cEr_njF7lUDj
