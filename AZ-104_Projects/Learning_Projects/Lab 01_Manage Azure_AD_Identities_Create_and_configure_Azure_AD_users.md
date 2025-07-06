@@ -160,5 +160,5 @@ Sidney Andrews
 https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/b7a15f2697d1d39c848a083feed69de8cd80cf2b/Instructions/Labs/LAB_01-Manage_Entra_ID_Identities.md
 
 
-I do not Own the Material used above
+I DO NOT OWN THE MATERIAL USED ABOVE
 
