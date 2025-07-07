@@ -1,5 +1,5 @@
 # Hey there, I'm Efley Espinal, an IT Professional 
-##Key Projects Below
+-Key Projects Below
 
 
   Router/Switch Configuration (Finalizing)
