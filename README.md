@@ -2,58 +2,58 @@
 -Key Projects Below
 
 
-  Router/Switch Configuration (i Believe Finalized)
+  Router/Switch Configuration (Finalizing)
   
-    Tracing a user Device
+    * Tracing a user Device
     
-    Setting up Vlans 
+    * Setting up Vlans 
     
-    OSPF advertising and failover setup
+    * OSPF advertising and failover setup
     
-    OS updates  
+    * OS updates  
     
-    Router on a stick 
+    * Router on a stick 
 
     
-  Azure Administration (still finalizing)
+  Azure Administration (Finalizing)
   
-    Setting up On Boarding
+    * Setting up On Boarding
     
-    Setting up IAM / Multi factor
+    * Setting up IAM / Multi factor
     
-    Setting up Firewall
+    * Setting up Firewall
     
-    Setting up Terraform
+    * Setting up Terraform
     
-    Creating storage account 
+    * Creating storage account 
 
     
-  Security/Network Hardening  Projects
+  Security/Network Hardening  Projects (Finalizing)
   
-    Analyzing Suspicious Wireshark Logs
+    * Analyzing Suspicious Wireshark Logs
     
-    Creating a CSR
+    * Creating a CSR
     
-    Creating SSL Certificate from CSR
+    * Creating SSL Certificate from CSR
     
-    Project 4
+    * Project 4
     
-    Project 5
+    * Project 5
 
     
-  Other Projects
+  Other Projects (Finalizing)
   
-    Linux
+    * Linux
     
-    Zscaler Zscaler client connecter update to users
+    * Zscaler Zscaler client connecter update to users
     
-    Zscaler configuring SSL Inspection 
+    * Zscaler configuring SSL Inspection 
     
-    F5 Loadbalncer applying SSL certificate to Client Profile 
+    * F5 Loadbalncer applying SSL certificate to Client Profile 
     
-    Checkpoint creating FQDNs firewall rules 
+    * Checkpoint creating FQDNs firewall rules 
     
-    Checkpoint Firewall rule Cleanup
+    * Checkpoint Firewall rule Cleanup
     
-    Cloudflare setting up DDOS protection on client application 
+    * Cloudflare setting up DDOS protection on client application 
 
