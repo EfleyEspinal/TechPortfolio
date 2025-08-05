@@ -1,6 +1,8 @@
-# Hey there, I'm Efley Espinal, an IT Professional. Below you will find a few Projects i have personally worked on in my own time
+# Hey there, I'm Efley Espinal, an IT Professional. 
 
--Key Projects Below
+-Below you will find a few Projects i have personally worked on in my own time
+
+-Key Projects
 
  Cisco Router/Switch Configuration (Finalizing)
   
