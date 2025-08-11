@@ -1,0 +1,35 @@
+Creating and Configuring a user account
+
+#In this task, you will create and configure user accounts. User accounts will store user data such as name, department, location, and contact information.
+
+1. Signing in to **Azures portal** - `https://portal.azure.com`.
+
+1. Search for and select `Microsoft Entra ID`. Microsoft Entra ID is Azure's cloud-based identity and access management solution. Take a few minutes to familiarize yourself with some of the features listed in the left pane. 
+
+1. Select the **Overview** blade and then the **Manage tenants** tab. 
+
+    >**Did you know?** A tenant is a specific instance of Microsoft Entra ID containing accounts and groups. Depending on your situation, you can create more tenants and **Switch** between them. 
+
+1. Return to the **Entra ID** page by pressing back in the browser or selecting the option in the breadcrumb menu.
+
+1. As you have time, explore other options such as **Licenses** and **Password reset**.
+   
+### Create a new user
+
+1. Select **Users**, then in the **New user** drop-down select **Create new user**. 
+
+1. Create a new user with the following settings (leave others with their defaults). On the **Properties** tab notice all the different types of information that can be included in the user account. 
+
+    | Setting | Value |
+    | --- | --- |
+    | User principal name | `az104-user1` |
+    | Display name | `az104-user1` |
+    | Auto-generate password | **checked** |
+    | Account enabled | **checked** |
+    | Job title (Properties tab) | `IT Lab Administrator` |
+    | Department (Properties tab) | `IT` |
+    | Usage location (Properties tab) | **United States** |
+
+1. Once you have finished reviewing, select **Review + create** and then **Create**.
+
+1. Refresh the page and confirm your new user was created. 
