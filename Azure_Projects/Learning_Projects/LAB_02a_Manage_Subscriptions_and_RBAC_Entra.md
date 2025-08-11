@@ -32,7 +32,7 @@ To simplify management of Azure resources in your organization, you have been ta
 
 ## Architecture diagram
 
-![Diagram of lab tasks.](../media/az104-lab02a-architecture.png)
+![Diagram of lab tasks.](Learning_Media/az104-lab02a-architecture.png)
 
 ## Job skills
 
@@ -141,7 +141,7 @@ In this task, you view the activity log to determine if anyone has created a new
 
 1. Review the activites for role assignments. The activity log can be filtered for specific operations. 
 
-    ![Screenshot of the Activity log page with configured filter.](../media/az104-lab02a-searchactivitylog.png)
+    ![Screenshot of the Activity log page with configured filter.](Learning_Media/az104-lab02a-architecture.png)
 
 
 ## Key takeaways
