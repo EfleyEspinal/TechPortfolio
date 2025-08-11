@@ -32,7 +32,7 @@ Your organization's cloud footprint has grown considerably in the last year. Dur
 
 ## Architecture diagram
 
-![Diagram of the task architecture.](../media/az104-lab02b-architecture.png)
+![Diagram of the task architecture.](Learning_Media/az104-lab02b-architecture.png)
 
 ## Job skills
 
@@ -76,7 +76,7 @@ In this task, you will assign the built-in *Require a tag and its value on resou
 
 1. In the **Authoring** blade, select **Definitions**. Take a moment to browse through the list of [built-in policy definitions](https://learn.microsoft.com/azure/governance/policy/samples/built-in-policies) that are available for you to use. Notice you can also search for a definition.
 
-    ![Screenshot of the policy definition.](../media/az104-lab02b-policytags.png)
+    ![Screenshot of the policy definition.](Learning_Media/az104-lab02b-policytags.png)
 
 1. Search for the `Require a tag and its value on resources` built-in policy. Select the policy and take a minute to review the definition. 
 
@@ -129,7 +129,7 @@ In this task, you will assign the built-in *Require a tag and its value on resou
 
 1. You should receive a **Validation failed** message. View the message to identify the reason for the failure. Verify the error message states that the resource deployment was disallowed by the policy. 
 
-    ![Screenshot of the disallowed policy error.](../media/az104-lab02b-policyerror.png) 
+    ![Screenshot of the disallowed policy error.](Learning_Media/az104-lab02b-policyerror.png)
 
 >**Note**: By clicking the **Raw Error** tab, you can find more details about the error, including the name of the role definition **Require a tag and its value on resources**. The deployment failed because the storage account you attempted to create did not have a tag named **Cost Center** with its value set to **Default**.
 
@@ -175,7 +175,7 @@ In this task, we will use the new policy definition to remediate any non-complia
 
     >**Note**: This policy definition includes the **Modify** effect. So, a managed identity is required. 
 
-    ![Screenshot of the policy remediation page. ](../media/az104-lab02b-policyremediation.png) 
+    ![Screenshot of the policy remediation page. ](Learning_Media/az104-lab02b-policyremediation.png) 
 
 1. Click **Review + Create** and then click **Create**.
 
@@ -222,7 +222,7 @@ In this task, you configure and test a resource lock. Locks prevent either delet
 
 1. You should receive a notification denying the deletion. 
 
-    ![Screenshot of the failure to delete message.](../media/az104-lab02b-failuretodelete.png) 
+    ![Screenshot of the failure to delete message.](Learning_Media/az104-lab02b-failuretodelete.png)  
 
     >**Note:** You will need to remove the lock if you intend to delete the resource group. 
     
