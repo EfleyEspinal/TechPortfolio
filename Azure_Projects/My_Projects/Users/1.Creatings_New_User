@@ -10,6 +10,7 @@ Creating and Configuring a user account
 
 ![Screenshot of Azure Portal/Entra.](../My_Project_Media/P_1.1_Portal_Entra.png)
 
+
 1. Select the **Overview** blade and then the **Manage tenants** tab. 
 
     >**Did you know?** A tenant is a specific instance of Microsoft Entra ID containing accounts and groups. Depending on your situation, you can create more tenants and **Switch** between them. 
