@@ -6,6 +6,10 @@ Creating and Configuring a user account
 
 1. Search for and select `Microsoft Entra ID`. Microsoft Entra ID is Azure's cloud-based identity and access management solution. Take a few minutes to familiarize yourself with some of the features listed in the left pane. 
 
+## Azure Portal/Entra
+
+![Screenshot of Azure Portal/Entra.](../My_Project_Media/P_1.1_Portal_Entra.png)
+
 1. Select the **Overview** blade and then the **Manage tenants** tab. 
 
     >**Did you know?** A tenant is a specific instance of Microsoft Entra ID containing accounts and groups. Depending on your situation, you can create more tenants and **Switch** between them. 
