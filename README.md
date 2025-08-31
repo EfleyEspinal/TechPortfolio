@@ -10,7 +10,6 @@
     * Setting up Vlans 
     * OSPF advertising and failover setup
     * OS updates  
-    * Router on a stick
     
   Azure Administration (Finalizing)
   
@@ -18,11 +17,11 @@
     * My Projects
       * On Boarding (Individual)
       * On Boarding (Group)
-      * On Boarding using Azure CLI and Powershell
+      * On Boarding using Azure CLI and Powershell (Bulk)
       * IAM / Multi factor
       * Firewall
       * Terraform
-      * Storage accounts 
+      * Provisioning accounts 
 
     
   Security/Network Hardening Projects (Finalizing)
