@@ -16,8 +16,8 @@
     * Initial Az-104 Learning Projects
     * My Projects
       * On Boarding (Individual)
-      * On Boarding (Group)
       * On Boarding using Azure CLI and Powershell (Bulk)
+      * Managing Subscriptions & RBAC
       * IAM / Multi factor
       * Firewall
       * Terraform
