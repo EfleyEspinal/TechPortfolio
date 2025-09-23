@@ -16,12 +16,12 @@
     * Initial Az-104 Learning Projects
     * My Projects
       * On Boarding (Individual)
-      * On Boarding using Azure CLI and Powershell (Bulk)
-      * Managing Subscriptions & RBAC
-      * IAM / Multi factor
-      * Firewall
+      * On Boarding using CSV (Bulk)
+      * Compute and Identity Management
+      * Networking and Storage
+      * Monitor, Backup, and Recovery
+      * App Service Deployement and Scaling
       * Terraform
-      * Provisioning accounts 
 
     
   Security/Network Hardening Projects (Finalizing)
