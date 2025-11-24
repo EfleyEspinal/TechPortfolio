@@ -31,10 +31,11 @@
   Security/Network Hardening Projects (Finalizing)
   
     * Analyzing Suspicious Wireshark Logs
+    * Analyzing Home Network with NMAP
     * Creating a CSR
     * Creating SSL Certificate from CSR
 
-  Other Projects (Finalizing)
+  Possible Projects (Finalizing)
   
     * Zscaler Zscaler client connecter update to users
     * Zscaler configuring SSL Inspection 
