@@ -4,7 +4,7 @@
      * CyberSecurity Analyst (SOC or IAM)
      * Network Security Analyst.
 
--Current Certifications (active)
+-Current Certifications (Active)
 
     * COMPTia Security +  
     * COMPTia Network +
