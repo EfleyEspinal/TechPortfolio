@@ -1,6 +1,8 @@
-# Hey there, I'm Efley Espinal, an IT Professional currently looking for Roles as Azure Administrator , CyberSecurity Analyst (SOC or IAM), Network Security Analyst.
+# Hey there, I'm Efley Espinal, an Aspiring IT Professional
+# Currently looking for Roles as an Azure Administrator , CyberSecurity Analyst (SOC or IAM), Network Security Analyst.
 
-  I currently hold the following Certifications (active)
+-Current Certifications (active)
+
     * COMPTia Security +  
     * COMPTia Network +
     * Microsoft Azure Associate Administrator (AZ-104)
