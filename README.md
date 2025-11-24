@@ -4,9 +4,8 @@
     * COMPTia Security +  
     * COMPTia Network +
     * Microsoft Azure Associate Administrator (AZ-104)
-    * Zscaler 
+    * Zscaler Internet Access Administrator 
     * Microsoft Azure Fundamentals ( AZ-900)
-    * Zscaler Internet Access Administrator  
 
 -Below you will find a few Projects i have personally worked/working on in my own time
 
