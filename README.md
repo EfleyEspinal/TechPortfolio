@@ -1,5 +1,6 @@
 # Hey there, I'm Efley Espinal, an Aspiring IT Professional
 - Currently looking for Roles as:
+
     * Azure Administrator
     * CyberSecurity Analyst (SOC or IAM)
     * Network Security Analyst.
